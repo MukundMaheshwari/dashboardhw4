@@ -40,7 +40,7 @@ of a hint directive.
 of an important directive.
 ```
 
-```{figure} ../assets/logo.jpeg
+```{figure} ../assets/logo.png
 :height: 150px
 :name: figure-example
 
